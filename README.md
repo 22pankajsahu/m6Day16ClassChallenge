@@ -24,9 +24,9 @@ You can try the live demo of the User Information Card [here](https://22pankajsa
 
 included the relevant screenshots here.
 
-![Screenshot uic1](https://github.com/22pankajsahu/m6Day16ClassChallenge/assets/135128502/1f500af2-45fb-4c77-be77-83f8e7d8d50a)
+![Screenshot uic1](https://github.com/22pankajsahu/m6Day16ClassChallenge/assets/135128502/9c43096e-0f2c-43c4-ac0f-4df6129ea200)
 
-![Screenshot uic2](https://github.com/22pankajsahu/m6Day16ClassChallenge/assets/135128502/222470a1-266d-4565-8f8d-761e1dbd6002)
+![Screenshot uic2](https://github.com/22pankajsahu/m6Day16ClassChallenge/assets/135128502/e4169f6e-62b3-4ae6-9004-77e59aeefc16)
 
 ## Features
 
