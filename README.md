@@ -18,13 +18,15 @@ This is a simple web application that allows users to enter and display their pe
 
 ## Demo
 
-You can try the live demo of the User Information Card [here](#).
+You can try the live demo of the User Information Card [here](https://22pankajsahu.github.io/m6Day16ClassChallenge/).
 
 ## Screenshots
 
 included the relevant screenshots here.
 
-![Screenshot](https://22pankajsahu.github.io/m6Day16ClassChallenge/)
+![Screenshot uic1](https://github.com/22pankajsahu/m6Day16ClassChallenge/assets/135128502/1f500af2-45fb-4c77-be77-83f8e7d8d50a)
+
+![Screenshot uic2](https://github.com/22pankajsahu/m6Day16ClassChallenge/assets/135128502/222470a1-266d-4565-8f8d-761e1dbd6002)
 
 ## Features
 
